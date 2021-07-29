@@ -1,0 +1,23 @@
+{
+  "name": "markcraft",
+  "version": "1.0.0",
+  "description": "i am going apeshit",
+  "main": "insanity.js",
+  "scripts": {
+    "test": "echo did you seriously expect that there are tests in this mess"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxhom/markcraft.git"
+  },
+  "keywords": [
+    "insanity"
+  ],
+  "author": "an insane person",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxhom/markcraft/issues"
+  },
+  "homepage": "https://github.com/lxhom/markcraft#readme",
+  "dependencies": {}
+}
